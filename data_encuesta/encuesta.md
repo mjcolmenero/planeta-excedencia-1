@@ -1,11 +1,12 @@
-->Hay muchos padres y madres que deciden pedir una **excedencia para cuidar de sus hijos pequeños. Si eres una de esas personas** y alguna vez has tomado una excedencia por cuidado de hijos, **¡queremos conocer más!**. Motivos, experiencia, lo fácil o difícil que ha sido reincorporarse al mundo laboral, valoración, posibles mejoras, etc.<-
+Hay muchos padres y madres que deciden pedir una **excedencia para cuidar de sus hijos pequeños. Si eres una de esas personas** y alguna vez has tomado una excedencia por cuidado de hijos, **¡queremos conocer más!**. Motivos, experiencia, lo fácil o difícil que ha sido reincorporarse al mundo laboral, valoración, posibles mejoras, etc.
 
-->Responder a las preguntas de la encuesta te llevará poco más de 10 minutos. 
-Recuerda que las **respuestas** son **anónimas** y lo que nos cuentes no saldrá de aquí.<-
+Responder a las preguntas de la encuesta te llevará poco más de 10 minutos. 
+Recuerda que las **respuestas** son **anónimas** y lo que nos cuentes no saldrá de aquí.
 
-->Los resultados de esta encuesta formarán parte del proyecto de visualización de datos “Planeta excedencia” de Visualizar’17, una iniciativa de Medialab-Prado. Al final de la encuesta puedes proporcionar tu correo para que te informemos de los resultados obtenidos.<-
+Los resultados de esta encuesta formarán parte del proyecto de visualización de datos “Planeta excedencia” de Visualizar’17, una iniciativa de Medialab-Prado. Al final de la encuesta puedes proporcionar tu correo para que te informemos de los resultados obtenidos.
 
-->->Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.excedencia@gmail<-
+Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.excedencia@gmail
+
 ##### 1. Para situarnos, un par de preguntas rápidas sobre tu familia y tu situación. #####
 ##### ¿Podrías decirnos cuántos hijos tienes?* #####
       Se pueden seleccionar varias opciones
