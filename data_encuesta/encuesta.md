@@ -73,8 +73,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
         ◦ No contaba con ayuda externa de familiares 
         ◦ tro 
       
-##### 10. En caso de que los motivos para solicitar una excedencia fueran muy diferentes de un hijo a otro, #####
-##### ¿cuáles fueron los motivos en los distintos casos? #####
+##### 10. En caso de que los motivos para solicitar una excedencia fueran muy diferentes de un hijo a otro, ¿cuáles fueron los motivos en los distintos casos? #####
       
 ##### 11. El otro progenitor, ¿solicitó también una excedencia para cuidar del hijo/s?* #####
         ◦ Sí 
@@ -153,15 +152,9 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
       
 ##### 21. Pensando ahora en tu experiencia general durante la/s excedencia/s que has tenido ¿Cómo valoras el sistema de excedencia por cuidado de hijo/a?* #####
        Valóralo en una escala de 1 a 7 de la siguiente forma:
-        Negativamente
-        ◦ Neutro
-        ◦ Positivamente◦ 1
-        ◦ 2
-        ◦ 3
-        ◦ 4
-        ◦ 5
-        ◦ 6
-        ◦ 7
+        
+        Negativamente     Neutro     Positivamente
+        1      2      3      4      5      6     7
         
         
 ##### 22. Si pudieras cambiar el sistema de excedencias por cuidado de hijo/s, ¿harías alguna mejora?* #####
@@ -175,7 +168,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
 ##### 24.Basándote en tu experiencia con las opciones de conciliación entre la vida familiar y la vida laboral, ¿cómo valoras las opciones disponibles de conciliación familiar?* #####
 	Valóralo en una escala de 1 a 7 de la siguiente forma:
         
-        Negativamente --- Neutro --- Positivamente
+        Negativamente     Neutro     Positivamente
         1      2      3      4      5      6     7
        
         
@@ -187,7 +180,7 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
     
 ##### 26. En caso de creer que el sistema de conciliación familiar – laboral necesite alguna mejora, ¿qué mejoras propondías? #####
      
-##### 27. Para terminar de conocer tu situación y pensando en todo el proceso de excedencia: solicitud, motivaciones, período de excedencia, reincorporación laboral, conciliación.... #####<-
+##### 27. Para terminar de conocer tu situación y pensando en todo el proceso de excedencia: solicitud, motivaciones, período de excedencia, reincorporación laboral, conciliación.... #####
 
 ##### ¿Podrías resumir en tres palabras o expresiones tu experiencia con la excedencia por cuidado de hijos? #####
     
@@ -248,13 +241,13 @@ Puedes contactar con el equipo en [planeta.excedencia@gmail.com]mailto:planeta.e
 ##### 36. ¡Es todo! Solo falta darle a "enviar". #####
 
 
-->**¡Muchísimas gracias por tu tiempo!**
+**¡Muchísimas gracias por tu tiempo!**
 Si quieres saber más de este proyecto, déjanos tu correo electrónico y te enviaremos los resultados.
-      Si conoces a alguien que haya disfrutado de una excedencia, por favor, pásale este enlace para poder conocer más experiencias.
-http://s.coop/excedencia<-
+Si conoces a alguien que haya disfrutado de una excedencia, por favor, pásale este enlace para poder conocer más experiencias.
+http://s.coop/excedencia
 
--> **¿Quieres contarnos algo más?**
-Escríbenos a planeta.excedencia@gmail.com <-
+**¿Quieres contarnos algo más?**
+Escríbenos a planeta.excedencia@gmail.com
 
 
-\[Nota: Esta encuesta fue lanzada utilizando el servicio Typeform. El asterisco que aparece al final de algunas preguntas   \]
+\[**Nota**: Esta encuesta fue lanzada utilizando el servicio [Typeform](https://www.typeform.com/). El asterisco que aparece al final de algunas preguntas significa que el campo es obligatorio.\]
